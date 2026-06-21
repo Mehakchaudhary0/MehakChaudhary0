@@ -13,14 +13,10 @@
 </div>
 
 
+### 👋 Welcome to my GitHub space! 
 ## <span style="background: linear-gradient(to right, #8c52ff, #ff6ec7); -webkit-background-clip: text; color: transparent; font-weight:700;"> About Me</span>
 
-- Highly driven CSE student with a passion for technology & problem-solving
-- 
-- 
-- 
-
-- 
+I am an aspiring engineer deeply fascinated by the intelligence behind data and the logic behind efficient systems. My journey is focused at the intersection of **Artificial Intelligence**, **Data Science**, and core **Data Structures & Algorithms (DSA)**. I love breaking down complex, messy datasets to uncover hidden patterns, while simultaneously sharpening my problem-solving skills to write clean, optimized code. This profile serves as a live showroom of my evolution—from training predictive analytical models to mastering algorithmic efficiency—and I am always eager to push the boundaries of what data can do!
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Skills
 
 
@@ -53,6 +49,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/>
 
